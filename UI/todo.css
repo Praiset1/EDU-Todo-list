@@ -4,7 +4,7 @@
 
 body {
   font-family: "Concert One", cursive;
-  background: url(/UI/images/board_todo.jpg) no-repeat;
+  background: url(/UI/board_todo.jpg) no-repeat;
   background-size: cover;
   display: relative;
   margin: 5%;
