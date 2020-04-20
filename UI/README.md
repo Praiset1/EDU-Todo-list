@@ -13,3 +13,5 @@ Note that the tasks can't be more than 40 characters
 Task entered can be editted by clicking on Edit button, this allows one to type something in the textbox
 Task entered can also be deleted by clicking the remove button
 Completed tasks are supposed to be striked through on clicking the done button. However this button isn't active now
+
+Link: https://github.com/Praiset1/EDU-Todo-list/tree/gh-pages/UI
