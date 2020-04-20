@@ -15,3 +15,4 @@ Task entered can also be deleted by clicking the remove button
 Completed tasks are supposed to be striked through on clicking the done button. However this button isn't active now
 
 Link: https://github.com/Praiset1/EDU-Todo-list/tree/gh-pages/UI
+Github link: https://github.com/Praiset1/EDU-Todo-list.git
